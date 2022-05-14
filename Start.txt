@@ -8,3 +8,5 @@ ls -l
 chown -R $USER:$USER composeexample manage.py
 docker-compose up
 docker-compose down
+https://github.com/Cape-Craft-Projects
+
